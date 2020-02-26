@@ -7,7 +7,7 @@ A collection of recipes that I have found and enjoyed.  I used to bookmark them 
 ## Recipes
 
 {% for recipe in site.recipes %}
-  <a href="{{ recipe.url }}">
+  <a href="{{ recipe.url | relative_url }}">
     {{ recipe.name }}
   </a>
 {% endfor %}
