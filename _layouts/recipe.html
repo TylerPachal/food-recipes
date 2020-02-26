@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<small>Added {{ page.date | date: "%Y-%m-%d" }}</small>
+<h1>{{ page.name }}</h1>
+
+<h5><a href={{ page.source }}>Original Source</a></h5>
+
+Prep Time: {{ page.prep_time_minutes }} mins
+<br>
+Cook Time: {{ page.cook_time_minutes }} mins
+
+<br>
+<br>
+
+<i>{{ page.description }}</i>
+
+<br>
+<br>
+
+<h3>Ingredients</h3>
+<ul>
+  {% for ingredient in page.ingredients %}
+    {% if ingredient.section %}
+      </ul>
+      <h5>{{ ingredient.section }}</h5>
+      <ul>
+    {% elsif ingredient.description %}
+      <li>{{ ingredient.description }}</li>
+    {% else %}
+    <li>{{ ingredient.name }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<br>
+<br>
+
+<h3>Instructions</h3>
+<ol>
+  {% for instruction in page.instructions %}
+    <li>
+      {{ instruction | markdownify }}
+    </li>
+  {% endfor %}
+</ol>
+
+<br>
+<br>
+
+<h3>Notes</h3>
+{{ page.notes | markdownify }}
+
+<br>
+<br>
+
+<small>Ingredients: <em>
+  {{ page.ingredients | map: "name" | compact | join: "</em> - <em>" }}
+</em></small>

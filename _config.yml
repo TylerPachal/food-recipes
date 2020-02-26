@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+title: Food Recipes
+description: Recipes which I want to bookmark and save
+
+collections:
+  recipes:
+    output: true
