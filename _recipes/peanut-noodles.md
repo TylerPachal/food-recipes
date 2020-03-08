@@ -6,7 +6,7 @@ source: https://damndelicious.net/2017/03/06/thai-peanut-chicken-noodles/
 description: The quickest noodle dish you could ever whip up in less than 30 minutes. Full of flavor, and can be served as a side or main!
 ingredients:
   - name: noodles
-    description: noodles; something kind of think such as udon
+    description: noodles; something kind of thick such as udon
   - name: olive oil
     description: 1 tbsp olive oil
   - name: cabbage
