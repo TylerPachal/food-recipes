@@ -13,12 +13,8 @@ ingredients:
     description: 2 cups shredded cabbage
   - name: carrots
     description: 2 carrots, peeled and shredded
-  - name: green onion
-    description: 2 green onions, thinly sliced
-  - name: peanuts
-    description: 1/2 cup chopped peanuts
-  - name: cilantro
-    description: cilantro chopped
+
+  - section: Sauce
   - name: peanut butter
     description: 1/4 cup of peanut butter
   - name: soy sauce
@@ -31,10 +27,17 @@ ingredients:
     description: 1 tbsp rice vinegar
   - name: sesame oil
     description: 1 tsp sesame oil
-  - name: chili crisp
-    description: 1 dollop of chili crisp oil per serving
+
+  - section: Garnish
+  - name: chili crisp oil
   - name: sesame seeds
     description: sesame seeds for garnish
+  - name: green onion
+    description: 2 green onions, thinly sliced
+  - name: peanuts
+    description: 1/2 cup chopped peanuts
+  - name: cilantro
+    description: cilantro, chopped
 
 instructions:
   - In a large bowl, whisk together peanut butter, soy sauce, garlic, honey, ginger, vinegar, sesame and oil; set aside.
