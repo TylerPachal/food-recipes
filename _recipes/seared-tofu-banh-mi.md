@@ -36,8 +36,8 @@ ingredients:
   - section: Tofu Marinade
   - name: olive oil
     description: 1 tablespoon olive oil
-  - name: tamari
-    description: 2 tablespoons tamari
+  - name: soy sauce
+    description: 2 tablespoons soy sauce
   - name: lime
     description: Juice of 1/2 lime + a little zest
   - name: garlic
@@ -50,8 +50,8 @@ ingredients:
 instructions:
   - _Make ahead_  Place the daikon, carrots, cucumbers, and jalapeños in a medium jar with the white wine vinegar, rice vinegar, sugar, and salt. If the liquids don’t cover the veggies, add about 2 tablespoons water and more vinegar if necessary. Let chill for at least an hour, or store in the fridge for up to a week.
   - Drain the tofu and slice it into 1/2-inch slices. Place it on a towel and gently pat dry to remove excess water.
-  - In a small bowl, whisk together the olive oil, tamari, lime juice and zest, garlic, ginger, and pepper.
-  - Place the tofu in a shallow pan and pour the marinade on top. Flip the tofu to fully coat it, adding more tamari if necessary. Let the tofu marinate for at least 15 minutes.
+  - In a small bowl, whisk together the olive oil, soy sauce, lime juice and zest, garlic, ginger, and pepper.
+  - Place the tofu in a shallow pan and pour the marinade on top. Flip the tofu to fully coat it, adding more soy sauce if necessary. Let the tofu marinate for at least 15 minutes.
   - Heat a nonstick skillet to medium-high heat. Add a little oil to the pan and place the tofu pieces with enough space between each so that they’re not too crowded, working in batches if necessary. Without moving the tofu slices around too much, let them cook for a few minutes per side until they’re deeply golden brown and caramelized around the edges. Remove from heat and season to taste.
   - Assemble sandwiches with the baguette, mayo, tofu slices, pickled veggies, and cilantro, and serve with sriracha.
 
