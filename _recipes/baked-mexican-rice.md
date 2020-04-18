@@ -11,7 +11,7 @@ ingredients:
   - name: black pepper
     description: 1 teaspoon black pepper
   - name: cumin
-    description: 2 teaspoons cumix
+    description: 2 teaspoons cumin
   - name: chili poweder
     description: 1 teasponn chili powder
   - name: cayenne pepper
