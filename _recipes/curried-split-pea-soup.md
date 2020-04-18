@@ -26,7 +26,7 @@ ingredients:
   - name: cumin
     description: 1/2 tsp ground cumin
   - name: coconut milk
-    description: 1 can
+    description: 1 can coconut milk
   - name: lemon/lime juice
     description: 1 tbsp lemon or lime juice
 
@@ -37,7 +37,7 @@ instructions:
   - Stir in coconut milk and lemon or lime juice, if using. Season with salt and pepper to taste.
 
 notes: >
-  I only cooked for 20 minutes and the lentils still had a bit of a bite to them.  Trying 30 minutes next time.
+  I only cooked for 20 minutes and the split peas still had a bit of a bite to them.  Trying 30 minutes next time.
 
 
   I added some other miscellaneous veggies from the fridge: one jalapeño and some brocoli.
