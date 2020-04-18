@@ -30,15 +30,16 @@ ingredients:
   - name: pepper
 
 instructions:
-  - Sauté the onions with some salt until translucent.
+  - Sauté the onions in a large pot with some salt until translucent.
   - Add garlic, tomato paste, cumin, jalapeños, and ginger. Mix that around until it becomes a little darker in color. (It'll become a thick paste).
   - Add your sweet potato, chicken stock, diced tomatoes, peanut butter, chickpeas. Bring to a boil and then turn down to a simmer for 15-20 minutes.
-  - Scoop mixture out of pot and blend.
+  - Transfer mixture from pot into a blender and blend for a few seconds until the large chunks of tomato/potato/chickpea are mostly gone.
   - Add blended mixture back to pot and add spinach to wilt.
   - Add salt and pepper to taste.
 
 notes: >
   The original recipe called for 1 cup of PB but I doubled it.
+
 
   I let the mixture simmer for 40 minutes.
 ---
