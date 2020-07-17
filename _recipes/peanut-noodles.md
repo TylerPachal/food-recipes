@@ -18,9 +18,11 @@ ingredients:
   - name: peanut butter
     description: 1/4 cup of peanut butter
   - name: soy sauce
-    description: 1/4 cur of soy sauce
+    description: 1/4 cup of soy sauce
   - name: garlic
     description: 2 cloves of garlic, minced
+  - name: ginger
+    description: 1 inch of ginger, peeled and minced
   - name: honey
     description: 2 tbsp of honey
   - name: rice vinegar
