@@ -13,7 +13,7 @@ ingredients:
   - name: corn starch
     description: 1/4 cup corn starch
 
-  - Section: Sauce
+  - section: Sauce
   - name: ketchup
     description: 1/4 cup ketchup
   - name: corn syrup
