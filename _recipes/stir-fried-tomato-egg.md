@@ -1,6 +1,6 @@
 ---
 layout: recipe
-date: 2020-009-17
+date: 2020-09-17
 name: Stir-Fried Tomato Egg
 source: https://futuredish.com/tomato-egg-stirfry-iconic-chinese-breakfast-item/
 description: This is an iconic dish that many Chinese people grow up eating for breakfast.
