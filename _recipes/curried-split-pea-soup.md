@@ -14,7 +14,7 @@ ingredients:
   - name: celery
     description: 2 cerely stalks, diced
   - name: garlic
-    description: 3 garlic cloves, grated/minced\
+    description: 3 garlic cloves, grated/minced
   - name: vegetable broth
     description: 6 cups vegetable broth
   - name: split peas
@@ -32,12 +32,12 @@ ingredients:
 
 instructions:
   - Coat the bottom of a large pot with oil and place over medium heat. When oil is hot, add onion, carrots, celery and garlic. Sauté until veggies are softened, about 5 minutes.
-  - Add broth, peas, curry powder, garam masala and cumin. Bring to a boil. Lower heat and allow to simmer until peas are very soft, about 30 minutes.
+  - Add broth, peas, curry powder, garam masala and cumin. Bring to a boil. Lower heat and allow to simmer until peas are very soft, about 40 minutes.
   - Scoop soup mixture and purée in a blender.  You may have to do this in batches if the blender is not large enough for the whole pot.  Return puréed mixture to pot.
   - Stir in coconut milk and lemon or lime juice, if using. Season with salt and pepper to taste.
 
 notes: >
-  I only cooked for 20 minutes and the split peas still had a bit of a bite to them.  Trying 30 minutes next time.
+  I only cooked for 30 minutes and the split peas still had a bit of a bite to them.  Trying 40 minutes next time.
 
 
   I added some other miscellaneous veggies from the fridge: one jalapeño and some brocoli.
