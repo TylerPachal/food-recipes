@@ -3,8 +3,6 @@ layout: recipe
 date: 2020-02-01
 name: Stovetop Popcorn
 source: https://cookieandkate.com/perfect-stovetop-popcorn-recipe/
-prep_time_minutes: 2
-cook_time_minutes: 8
 description: Learn how to make perfectly popped popcorn in under 10 minutes! You’ll never go back to microwave popcorn after you make this recipe. Recipe yields about 10 cups (about 4 servings).
 ingredients:
   - name: olive oil

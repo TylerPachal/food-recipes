@@ -3,8 +3,6 @@ layout: recipe
 date: 2020-02-01
 name: Seared Tofu Banh Mi
 source: https://www.loveandlemons.com/banh-mi/
-prep_time_minutes: 20
-cook_time_minutes: 20
 description: Vegetarian banh mi recipe is made with seared tofu, pickled daikon radishes, carrots, cucumbers, and jalapeños.
 ingredients:
   - name: tofu

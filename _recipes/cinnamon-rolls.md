@@ -5,7 +5,7 @@ name: Cinnabon Cinnamon Rolls
 source: https://www.jocooks.com/recipes/cinnabons-cinnamon-rolls/
 description: Cinnabons Cinnamon Rolls – a cinnabon copycat recipe, about the closest you’ll get to the real thing. These truly are the best cinnamon rolls ever! Everyone raves about these rolls!
 ingredients:
-  -  section: Dough
+  - section: Dough
   - name: active dry yeast or instant yeast
     description: 2 1/4 tsp active dry yeast or instant yeast
   - name: milk
@@ -20,14 +20,14 @@ ingredients:
     description: 2 eggs
   - name: all-purpose flour
     description: 4 cups all-purpose flour
-  -  section: Filling
+  - section: Filling
   - name: brown sugar
     description: 1 cup brown sugar packed
   - name: cinnamon
     description: 3 tbsp cinnamon
   - name: butter unsalted, softened, or margarine
     description: 1/3 cup butter unsalted, softened, or margarine
-  -  section: Cream Cheese Icing
+  - section: Cream Cheese Icing
   - name: butter unsalted, softened, or margarine
     description: 6 tbsp (about 1/3 of a cup) butter unsalted, softened, or margarine
   - name: powdered sugar also known as icing sugar, or confectioner's sugar
